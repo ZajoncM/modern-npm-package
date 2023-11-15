@@ -1,7 +1,7 @@
 {
   "name": "@milosz.zajonc/modern-npm-package",
   "version": "0.0.0-development",
-  "description": "An npm package for demonstration purposes using TypeScript to build for both the ECMAScript Module format (i.e. ESM or ES Module) and CommonJS Module format. It can be used in Node.js and browser applications.",
+  "description": "My modern npm package",
   "exports": {
     ".": {
       "import": {
@@ -56,9 +56,9 @@
   "author": "Milosz Zajonc",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/snyk-labs/modern-npm-package/issues"
+    "url": "https://github.com/ZajoncM/modern-npm-package/issues"
   },
-  "homepage": "https://github.com/snyk-labs/modern-npm-package#readme",
+  "homepage": "https://github.com/ZajoncM/modern-npm-package#readme",
   "devDependencies": {
     "@types/chai": "^4.3.3",
     "@types/mocha": "^9.1.1",
